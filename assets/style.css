@@ -1,0 +1,46 @@
+.row {
+	padding:8% 0%;
+}
+.header{
+	margin-bottom: 50px;
+}
+.panel.panel-default{
+	width:100%;
+	float:left;
+}
+.panel-body {
+	padding: 45px;
+}
+h1, h4{
+	color:#1996b4;
+	font-weight: bold;
+}
+h1{
+	margin-top: 10px;
+}
+h4{
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+.header img{
+	width:120px;
+} 
+.btn.btn-default {
+	background-color:#1996b4;
+	color:#FFFFFF;
+	font-size: 18px;
+}
+.stripe-button-el span {
+  background: #1996b4 !important;
+  background-image:none !important;
+  background-color: #1996b4 !important;
+  color:#FFFFFF !important;
+}
+.label{
+	width: 100%;
+	float: left;
+	text-align: left;
+	padding: 12px;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
